@@ -1,0 +1,2 @@
+# projetIntegration2017
+Lors de ce projet vous aurez à créer un jeu multi-joueurs de gestion de stands de limonade.  Chaque jour les joueurs indiquent le nombre de verres de limonades à préparer pour le jour suivant et le prix de vente à l'unité. Le joueur a pour seules informations :      son budget (capital),     le coût de préparation (matières premières + main d'œuvre),     la prévision météorologique du jour suivant.  A la fin de chaque journée le joueur voit le résultat de ses ventes et les gains ou pertes engendrés.
