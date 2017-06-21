@@ -1,0 +1,12 @@
+[submodule "module_java"]
+	path = module_java
+	url = https://github.com/alibarkatali/module_java.git
+[submodule "module_client"]
+	path = module_client
+	url = https://github.com/alibarkatali/module_client.git
+[submodule "module_arduino"]
+	path = module_arduino
+	url = https://github.com/alibarkatali/module_arduino.git
+[submodule "module_web"]
+	path = module_web
+	url = https://git.heroku.com/fast-wave-77815.git
